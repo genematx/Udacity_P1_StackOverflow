@@ -16,7 +16,6 @@ The repository contains the code used in Project 1 of Udacity Data Science Nanod
 ## Installation <a name="installation"></a>
 
 The code is written and tested in Python 3.5. Additional libraries to be installed beyond the standard Anaconda distribution are:
- -
 
 The original dataset can be downloaded from the StackOverflow [page](https://insights.stackoverflow.com/survey). Please unpack the archives and place their contents directly to the folder ./data/developer_survey_20xx for each year (without subfolders).
 
